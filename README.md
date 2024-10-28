@@ -1,1 +1,9 @@
-# SOC-lab
+# SOC lab
+
+## Objective
+
+### Skills learned
+
+### Tools used
+
+## Steps
