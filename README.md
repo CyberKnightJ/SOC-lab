@@ -1,4 +1,4 @@
-# SOC lab
+# SOC Lab
 
 ## Objective
 The objective of this lab is to provide hands-on, real-world SOC analyst experience, focusing on developing, practicing, and refining essential cybersecurity skills. The lab involves monitoring, detection, analysis, and response to simulated cybersecurity threats, building readiness to handle a variety of real-world security incidents effectively.
