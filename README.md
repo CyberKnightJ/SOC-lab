@@ -17,6 +17,7 @@ The objective of this lab is to provide hands-on, real-world SOC analyst experie
 - Microsoft Defender: Employed for endpoint detection and response, helping identify and mitigate threats at the device level.
 - PowerShell: Used for scripting and automation tasks in Windows environments, streamlining configurations and SOC workflows.
 - ELK Stack (SIEM): Leveraging Elasticsearch, Logstash, and Kibana for SIEM functionalities, including log management, search, and visualization.
+- osTicket: A ticketing system for tracking, managing, and documenting incidents and tasks, essential for structured incident response.
 - Mythic: A red team command-and-control (C2) framework used for simulating and managing adversarial tactics in a controlled environment.
 
 ## Steps
