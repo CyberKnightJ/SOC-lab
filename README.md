@@ -1,11 +1,22 @@
 # SOC lab
 
 ## Objective
+The objective of this lab is to provide real world SOC-analyst experience in order to develop, practice, and refine skills in monitoring, detecting, analyzing, and responding to cybersecurity threats.
 
 ### Skills learned
-
+- Drawing a logical diagram
+- Using the cloud to setup servers
+- Setup and configure a SIEM
+- Using firewalls
+- How to attack, detect, and investigate
+- How to create alerts and dashboards
+- How to setup and integrate a ticketing system
 ### Tools used
-
+- Vultr cloud service
+- Microsoft defender
+- Powershell
+- SIEM (ELK stack)
+- Mythic
 ## Steps
 <div align="center">
 
