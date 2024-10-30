@@ -33,19 +33,19 @@
 
 <br><br>
 
-# OsTicket Open
+# osTicket Open
 
 <img src="https://i.imgur.com/nivWvck.png" height="80%" width="80%" alt="OsTicket Open"/>
 
 <br><br>
 
-# OsTicket Login
+# osTicket Login
 
 <img src="https://i.imgur.com/AoTB790.png" height="80%" width="80%" alt="OsTicket Login"/>
 
 <br><br>
 
-# OsTicket Assigned
+# osTicket Assigned
 
 <img src="https://i.imgur.com/uZF2KdF.png" height="80%" width="80%" alt="OsTicket Assigned"/>
 
